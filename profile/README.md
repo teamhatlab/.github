@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+If you have a repo you want to be listed on the labs page, you have to transfer ownership to the hatlab organizaton- since you will be given admin access to the lab github page you will still retain all ownership access to the repository.
+
+![image](https://user-images.githubusercontent.com/47376937/147273458-b1d14265-6f28-4f68-a514-aea036a53cf6.png)
+
 <!--
 
 **Here are some ideas to get you started:**
